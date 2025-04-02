@@ -17,27 +17,33 @@ Frontend
 
 ## Estrutura do projeto
 
+```bash
 studio-kangoo/
 ├── frontend/      # Aplicação Vue 3
 ├── backend/       # API Node.js com Express
 └── README.md
+```
 
 ---
 
 
 ### Rodando o frontend
 
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
 ---
 
 ### Rodando o backend
 
+```bash
 cd backend
 npm install
 npm run dev
+```
 
 ---
 
