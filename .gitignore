@@ -1,0 +1,17 @@
+# Node
+node_modules/
+.env
+
+# Vite/Build
+dist/
+.vite/
+
+# Logs
+npm-debug.log*
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
